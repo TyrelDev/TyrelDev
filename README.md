@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<a href="https://tyreldev.github.io/personal-website/"> My Website </a>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TyrelDev)](https://github.com/anuraghazra/github-readme-stats)
