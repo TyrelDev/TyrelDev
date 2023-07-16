@@ -7,5 +7,5 @@
 - 📫 How to reach me: LinkedIn or Twitter
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I like spicy food.<br><br>
-<a href="https://tyreldev.github.io/personal-website/"> My Website </a><br>
+<a href="https://tyreldev.github.io/personal-website/"> My Website </a><br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TyrelDev)](https://github.com/anuraghazra/github-readme-stats)
